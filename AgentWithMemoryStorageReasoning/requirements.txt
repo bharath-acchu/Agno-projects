@@ -1,0 +1,11 @@
+agno
+python-dotenv 
+google-genai
+duckduckgo-search
+lancedb 
+tantivy 
+sqlalchemy
+pypdf
+pylance
+pandas
+yfinance
