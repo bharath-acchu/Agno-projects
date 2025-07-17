@@ -9,6 +9,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+#WEB agent
 web_agent = Agent(
     name="Web Search Agent",
     role="Handle web search requests and general research",
@@ -18,6 +20,8 @@ web_agent = Agent(
     add_datetime_to_instructions=True,
 )
 
+
+#FINANCE agent
 finance_agent = Agent(
     name="Finance Agent",
     role="Handle financial data requests and market analysis",
@@ -31,6 +35,8 @@ finance_agent = Agent(
     add_datetime_to_instructions=True,
 )
 
+
+#COORDINATOR agent
 reasoning_finance_team = Team(
     name="Reasoning Finance Team",
     mode="coordinate",
