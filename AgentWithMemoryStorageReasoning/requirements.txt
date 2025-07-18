@@ -1,7 +1,7 @@
 agno
 python-dotenv 
 google-genai
-duckduckgo-search
+duckduckgo-search #ddgs(in future)
 lancedb 
 tantivy 
 sqlalchemy
@@ -9,3 +9,9 @@ pypdf
 pylance
 pandas
 yfinance
+newspaper4k 
+lxml_html_clean
+arxiv
+googlesearch-python
+pycountry
+
