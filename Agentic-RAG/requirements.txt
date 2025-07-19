@@ -1,0 +1,12 @@
+agno
+duckduckgo_search
+google-genai
+groq
+nest_asyncio
+sqlalchemy
+streamlit
+pgvector
+aiofiles
+pypdf
+beautifulsoup4
+psycopg2-binary 
